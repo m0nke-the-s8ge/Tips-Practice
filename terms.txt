@@ -1,0 +1,9 @@
+● Decomposition
+
+● Modular Development
+
+● Incremental Development
+
+● Function Stub
+
+● Redundant
